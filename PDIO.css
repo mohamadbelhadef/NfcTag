@@ -1,0 +1,62 @@
+*{
+ 	margin: 0;
+	padding: 0;
+
+}
+    body{ 
+
+    	width: 100%;
+    	height: 100%;
+    	background: linear-gradient(-46deg, #ceff77 ,#2ec194,#03e3cc ,#03e3e0,#2196f3,#f44336, #c0acdf );
+    	background-size:400% 400%;
+    	animation: gradient 20s ease infinite;
+    	font-family:"open sans";
+    }
+ @keyframes gradient 
+ {
+ 	0%
+ 	{
+ 		background-position: 0% 50% ;
+
+ 	}
+50%
+ 	{
+ 		background-position : 100% 50% ;
+
+ 	}
+100%
+ 	{
+ 		background-position: 0% 50% ;
+
+ 	}
+ }   
+  #main {
+position: absolute; 
+	border-radius:60px;
+   	box-shadow: 30px 30PX 50PX rgba(0,0,0,0.3)
+
+ }
+  #fb {
+position: relative ; 
+	border-radius:60px;
+    box-shadow: 30px 30PX 20PX rgba(0,0,0,0.3)
+
+ }
+  #inst {
+position: relative ; 
+	border-radius:60px;
+   	box-shadow: 30px 30PX 20PX rgba(0,0,0,0.3)
+
+ }
+  #e-mail {
+position: relative ; 
+    border-radius:60px;
+   	box-shadow: 30px 30PX 20PX rgba(0,0,0,0.3)
+}	
+   #phone {
+position:  relative; 
+	border-radius:60px;
+   	box-shadow: 30px 30PX 20PX rgba(0,0,0,0.3)
+
+ }
+ 

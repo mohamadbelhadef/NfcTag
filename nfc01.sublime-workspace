@@ -1,0 +1,485 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"co",
+				"cover\tobject-fit"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"P",
+				"position\tproperty"
+			],
+			[
+				"T",
+				"top\tproperty"
+			],
+			[
+				"p",
+				"position\tproperty"
+			],
+			[
+				"tra",
+				"transform\tproperty"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"f",
+				"fac"
+			],
+			[
+				"d",
+				"dz"
+			],
+			[
+				"b",
+				"bentoumi"
+			],
+			[
+				"mo",
+				"mohammed"
+			],
+			[
+				"s",
+				"souag"
+			],
+			[
+				"ba",
+				"background-position\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"backg",
+				"background\tproperty"
+			],
+			[
+				"fi",
+				"filter\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"bo",
+				"border-radius\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"r",
+				"right\tproperty"
+			],
+			[
+				"st",
+				"strong\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"m",
+				"margin\tproperty"
+			],
+			[
+				"C",
+				"column-reverse\tflex-direction"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"fl",
+				"flex-direction\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"c",
+				"color\tproperty"
+			],
+			[
+				"background",
+				"background-image\tproperty"
+			],
+			[
+				"backgr",
+				"background-attachment\tproperty"
+			],
+			[
+				"le",
+				"label\tTag"
+			],
+			[
+				"v",
+				"video\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"bod",
+				"body\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "PDIO.html",
+			"settings":
+			{
+				"buffer_size": 1011,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "PDIO.css",
+			"settings":
+			{
+				"buffer_size": 994,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Hp ProBook/Desktop/projet -test/K.html",
+		"/C/Users/Hp ProBook/Desktop/nfc/nfc.01.html",
+		"/C/Users/Hp ProBook/Desktop/mohamed/html/imane.html",
+		"/C/Users/Hp ProBook/Desktop/mohamed/html/hard",
+		"/C/Users/Hp ProBook/Desktop/nfc/imane",
+		"/C/Users/Hp ProBook/Desktop/mohamed/html/projet/schadw.html",
+		"/C/Users/Hp ProBook/Desktop/mohamed/html/abdel.HTML",
+		"/C/Users/Hp ProBook/Desktop/mohamed/html/nfc/nfc",
+		"/C/Users/Hp ProBook/Desktop/mohamed/html/begin.html",
+		"/C/Users/Hp ProBook/Desktop/mohamed/html/imane",
+		"/C/Users/Hp ProBook/Desktop/mohamed/html/galb.html",
+		"/C/Users/Hp ProBook/Desktop/mohamed/html/gamb.css",
+		"/C/Users/Hp ProBook/Desktop/mohamed/html/rfid.css",
+		"/C/Users/Hp ProBook/Desktop/mohamed/html/j",
+		"/C/Users/Hp ProBook/Desktop/mohamed/html/projet/schadw.css",
+		"/C/Users/Hp ProBook/Desktop/lko.html.txt",
+		"/C/Users/Hp ProBook/Desktop/html/PHOT.html",
+		"/C/Users/Hp ProBook/Desktop/html/phot.css",
+		"/C/Users/Hp ProBook/Desktop/html/galb.html",
+		"/C/Users/Hp ProBook/Desktop/html/gamb.css",
+		"/C/Users/Hp ProBook/Desktop/html/projet/schadw.html",
+		"/C/Users/Hp ProBook/Desktop/html/begin.html",
+		"/C/Users/Hp ProBook/Desktop/html/xlm.xml",
+		"/C/Users/Hp ProBook/Desktop/html/projet/schadw.css",
+		"/C/Users/Hp ProBook/Desktop/html/hard",
+		"/C/Users/Hp ProBook/Desktop/html/techers.html",
+		"/C/Users/Hp ProBook/Desktop/html/projet/p.html",
+		"/C/Users/Hp ProBook/Desktop/html/techerd.css",
+		"/C/Users/Hp ProBook/Desktop/html/schadw.html",
+		"/C/Users/Hp ProBook/Desktop/html/schadw.css",
+		"/C/Users/Hp ProBook/Desktop/html/rfid-clock.html",
+		"/C/Users/Hp ProBook/Desktop/html/rfid.css",
+		"/C/Users/Hp ProBook/Desktop/html/abdel.HTML",
+		"/C/Users/Hp ProBook/Desktop/html/gogl.HTML",
+		"/C/Users/Hp ProBook/Desktop/html/moh.html",
+		"/C/Users/Hp ProBook/Desktop/html/M1-ESE",
+		"/C/Users/Hp ProBook/Desktop/html/fgh",
+		"/C/Users/Hp ProBook/Desktop/amin.JPG",
+		"/C/Users/Hp ProBook/Desktop/html/gogl",
+		"/C/Users/Hp ProBook/Desktop/test1",
+		"/C/Users/Hp ProBook/Desktop/test2",
+		"/C/Users/Hp ProBook/Documents/moh.html",
+		"/C/Users/Hp ProBook/Desktop/html/abdel"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "PDIO.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1011,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "PDIO.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 994,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								670,
+								670
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 69.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "nfc01.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
